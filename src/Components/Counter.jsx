@@ -2,9 +2,9 @@ import React from "react";
 
 const Counter = () => {
 
-const increment = ()=> {0};
+    const increment = () => { 0 };
 
-const decrement = ()=> {0};
+    const decrement = () => { 0 };
 
 
     return (
